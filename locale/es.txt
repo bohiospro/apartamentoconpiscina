@@ -1,0 +1,66 @@
+#: locale=es
+
+## Tour
+
+### Descripción
+
+### Título
+tour.name = Hermoso y acogedor apartamento 
+
+## Skin
+
+### Botón
+Button_221B5648_0C06_E5FD_4198_40C786948FF0_mobile.label = lorem ipsum
+
+### Texto Multilínea
+HTMLText_0B4B0DC1_11C0_6277_41A4_201A5BB3F7AE_mobile.html = <div style="text-align:left; color:#000; "><DIV STYLE="text-align:left;font-size:10.050000000000002vmin;"><SPAN STYLE="display:inline-block; letter-spacing:0vmin; white-space:pre-wrap;color:#000000;font-family:Arial, Helvetica, sans-serif;"><SPAN STYLE="color:#04a3e1;font-size:10.05vmin;font-family:'Bebas Neue Bold';">john doe</SPAN></SPAN></DIV><DIV STYLE="text-align:left;font-size:6.2299999999999995vmin;"><SPAN STYLE="display:inline-block; letter-spacing:0vmin; white-space:pre-wrap;color:#000000;font-family:Arial, Helvetica, sans-serif;"><SPAN STYLE="font-size:6.23vmin;font-family:'Bebas Neue Bold';">licensed real estate salesperson</SPAN></SPAN></DIV><p STYLE="margin:0; line-height:3.28vmin;"><BR STYLE="display:inline-block; letter-spacing:0vmin; white-space:pre-wrap;color:#000000;font-size:1.09vmin;font-family:Arial, Helvetica, sans-serif;"/></p><DIV STYLE="text-align:left;font-size:4.590000000000001vmin;"><SPAN STYLE="display:inline-block; letter-spacing:0vmin; white-space:pre-wrap;color:#000000;font-family:Arial, Helvetica, sans-serif;"><SPAN STYLE="color:#999999;font-size:4.59vmin;font-family:'Bebas Neue Bold';">Tlf.: +11 111 111 111</SPAN></SPAN></DIV><DIV STYLE="text-align:left;font-size:4.590000000000001vmin;"><SPAN STYLE="display:inline-block; letter-spacing:0vmin; white-space:pre-wrap;color:#000000;font-family:Arial, Helvetica, sans-serif;"><SPAN STYLE="color:#999999;font-size:4.59vmin;font-family:'Bebas Neue Bold';">jhondoe@realestate.com</SPAN></SPAN></DIV><DIV STYLE="text-align:left;font-size:4.590000000000001vmin;"><SPAN STYLE="display:inline-block; letter-spacing:0vmin; white-space:pre-wrap;color:#000000;font-family:Arial, Helvetica, sans-serif;"><SPAN STYLE="color:#999999;font-size:4.59vmin;font-family:'Bebas Neue Bold';">www.loremipsum.com</SPAN></SPAN></DIV></div>
+HTMLText_221B6648_0C06_E5FD_41A0_77851DC2C548_mobile.html = <div style="text-align:left; color:#000; "><DIV STYLE="text-align:left;font-size:10.050000000000002vmin;"><SPAN STYLE="display:inline-block; letter-spacing:0vmin; white-space:pre-wrap;color:#000000;font-family:Arial, Helvetica, sans-serif;"><SPAN STYLE="font-size:10.05vmin;font-family:'Bebas Neue Bold';">location</SPAN></SPAN></DIV><DIV STYLE="text-align:left;font-size:6.2299999999999995vmin;"><SPAN STYLE="display:inline-block; letter-spacing:0vmin; white-space:pre-wrap;color:#000000;font-family:Arial, Helvetica, sans-serif;"><SPAN STYLE="color:#04a3e1;font-size:6.23vmin;font-family:'Bebas Neue Bold';">address line 1</SPAN></SPAN></DIV><DIV STYLE="text-align:left;font-size:6.2299999999999995vmin;"><SPAN STYLE="display:inline-block; letter-spacing:0vmin; white-space:pre-wrap;color:#000000;font-family:Arial, Helvetica, sans-serif;"><SPAN STYLE="color:#04a3e1;font-size:6.23vmin;font-family:'Bebas Neue Bold';">address line 2</SPAN></SPAN></DIV><p STYLE="margin:0; line-height:3.61vmin;"><BR STYLE="display:inline-block; letter-spacing:0vmin; white-space:pre-wrap;color:#000000;font-size:1.09vmin;font-family:Arial, Helvetica, sans-serif;"/></p><DIV STYLE="text-align:left;font-size:3.61vmin;"><SPAN STYLE="display:inline-block; letter-spacing:0vmin; white-space:pre-wrap;color:#000000;font-family:Arial, Helvetica, sans-serif;"><SPAN STYLE="font-size:3.61vmin;">Mauris aliquet neque quis libero consequat vestibulum. Donec lacinia consequat dolor viverra sagittis. Praesent consequat porttitor risus, eu condimentum nunc. Proin et velit ac sapien luctus efficitur egestas ac augue. Nunc dictum, augue eget eleifend interdum, quam libero imperdiet lectus, vel scelerisque turpis lectus vel ligula. Duis a porta sem. Maecenas sollicitudin nunc id risus fringilla, a pharetra orci iaculis. Aliquam turpis ligula, tincidunt sit amet consequat ac.</SPAN></SPAN></DIV></div>
+HTMLText_EA4506F7_FDA0_5CF1_41C2_BF883C7259BF.html = <div style="text-align:left; color:#000; "><DIV STYLE="text-align:left;font-size:3.61vmin;"><SPAN STYLE="display:inline-block; letter-spacing:0vmin; white-space:pre-wrap;color:#000000;font-family:Arial, Helvetica, sans-serif;"><SPAN STYLE="font-size:3.61vmin;">Mauris aliquet neque quis libero consequat vestibulum. Donec lacinia consequat dolor viverra sagittis. Praesent consequat porttitor risus, eu condimentum nunc. Proin et velit ac sapien luctus efficitur egestas ac augue. Nunc dictum, augue eget eleifend interdum, quam libero imperdiet lectus, vel scelerisque turpis lectus vel ligula. Duis a porta sem. Maecenas sollicitudin nunc id risus fringilla, a pharetra orci iaculis. Aliquam turpis ligula, tincidunt sit amet consequat ac, imperdiet non dolor.</SPAN></SPAN></DIV></div>
+
+### Etiqueta
+Label_9064FBBE_8458_A2AA_41BA_FB869EA42212.text = apartamento con piscina
+Label_C9CE0AE0_C625_F3E3_41E8_2808D381F0AE.text = Hermoso y acogedor apartamento con piscina
+Label_D73736CB_C626_7224_41DA_C3211CE58BBC.text = Hermoso y acogedor 
+
+## Media
+
+### Título
+album_8A6E797D_8448_6FAE_41DD_F998746CBF83.label = Álbum de Fotos IMG_20220923_123443_00_merged
+album_8A6E797D_8448_6FAE_41DD_F998746CBF83_0.label = IMG_20220923_123443_00_merged
+album_8A6E797D_8448_6FAE_41DD_F998746CBF83_1.label = IMG_20220923_123554_00_merged
+album_8A6E797D_8448_6FAE_41DD_F998746CBF83_10.label = IMG_20220923_125527_00_merged
+album_8A6E797D_8448_6FAE_41DD_F998746CBF83_11.label = IMG_20220923_125645_00_merged
+album_8A6E797D_8448_6FAE_41DD_F998746CBF83_12.label = IMG_20220923_125759_00_merged
+album_8A6E797D_8448_6FAE_41DD_F998746CBF83_13.label = IMG_20220923_125918_00_merged
+album_8A6E797D_8448_6FAE_41DD_F998746CBF83_14.label = IMG_20220923_130235_00_merged
+album_8A6E797D_8448_6FAE_41DD_F998746CBF83_15.label = IMG_20220923_130329_00_merged
+album_8A6E797D_8448_6FAE_41DD_F998746CBF83_16.label = IMG_20220923_130457_00_merged
+album_8A6E797D_8448_6FAE_41DD_F998746CBF83_17.label = IMG_20220923_130521_00_merged
+album_8A6E797D_8448_6FAE_41DD_F998746CBF83_18.label = IMG_20220923_130547_00_merged
+album_8A6E797D_8448_6FAE_41DD_F998746CBF83_19.label = IMG_20220923_131813_00_325
+album_8A6E797D_8448_6FAE_41DD_F998746CBF83_2.label = IMG_20220923_123859_00_merged
+album_8A6E797D_8448_6FAE_41DD_F998746CBF83_20.label = IMG_20220923_132402_00_merged
+album_8A6E797D_8448_6FAE_41DD_F998746CBF83_21.label = IMG_20220923_133048_00_merged
+album_8A6E797D_8448_6FAE_41DD_F998746CBF83_22.label = IMG_20220923_133236_00_merged
+album_8A6E797D_8448_6FAE_41DD_F998746CBF83_23.label = IMG_20220923_133325_00_merged
+album_8A6E797D_8448_6FAE_41DD_F998746CBF83_24.label = IMG_20220923_133414_00_merged
+album_8A6E797D_8448_6FAE_41DD_F998746CBF83_25.label = IMG_20220923_133706_00_351
+album_8A6E797D_8448_6FAE_41DD_F998746CBF83_26.label = IMG_20220923_133726_00_352
+album_8A6E797D_8448_6FAE_41DD_F998746CBF83_27.label = IMG_20220923_133824_00_353
+album_8A6E797D_8448_6FAE_41DD_F998746CBF83_3.label = IMG_20220923_124107_00_merged
+album_8A6E797D_8448_6FAE_41DD_F998746CBF83_4.label = IMG_20220923_124352_00_merged
+album_8A6E797D_8448_6FAE_41DD_F998746CBF83_5.label = IMG_20220923_124637_00_merged
+album_8A6E797D_8448_6FAE_41DD_F998746CBF83_6.label = IMG_20220923_124806_00_merged
+album_8A6E797D_8448_6FAE_41DD_F998746CBF83_7.label = IMG_20220923_124958_00_merged
+album_8A6E797D_8448_6FAE_41DD_F998746CBF83_8.label = IMG_20220923_125229_00_merged
+album_8A6E797D_8448_6FAE_41DD_F998746CBF83_9.label = IMG_20220923_125346_00_merged
+
+## Acción
+
+### URL
+LinkBehaviour_8B925007_8448_9D5A_41CC_655DE78FD03C.source = https://es.airbnb.com/rooms/54202030?check_in=2022-10-05&check_out=2022-10-12&federated_search_id=973cedd7-50e9-49ec-ae07-42ebe1e7520f&source_impression_id=p3_1664372786_nGn1661QCPE3B0oj
+LinkBehaviour_8BD1E778_844B_A3B6_41E0_8848F4E3935C.source = https://es.airbnb.com/rooms/54202030?check_in=2022-10-05&check_out=2022-10-12&federated_search_id=973cedd7-50e9-49ec-ae07-42ebe1e7520f&source_impression_id=p3_1664372786_nGn1661QCPE3B0oj
+LinkBehaviour_91529B10_84B8_6377_41C8_8776DBCAED2D.source = https://api.whatsapp.com/send?phone=18098018018&text=Hola%20me%20gustaria%20reservar%20el%20apartamento.
+LinkBehaviour_91DB519B_84B8_FF6A_41DA_DD10B3C66D1E.source = https://api.whatsapp.com/send?phone=18098018018&text=Hola%20me%20gustaria%20reservar%20el%20apartamento.
+LinkBehaviour_94C8D7E4_8448_A2DE_41DD_15C8703F53F3.source = https://es.airbnb.com/rooms/54202030?check_in=2022-10-05&check_out=2022-10-12&federated_search_id=973cedd7-50e9-49ec-ae07-42ebe1e7520f&source_impression_id=p3_1664372786_nGn1661QCPE3B0oj
+LinkBehaviour_94D99090_844B_9D76_41D0_7BC661B4A4ED.source = https://es.airbnb.com/rooms/54202030?check_in=2022-10-05&check_out=2022-10-12&federated_search_id=973cedd7-50e9-49ec-ae07-42ebe1e7520f&source_impression_id=p3_1664372786_nGn1661QCPE3B0oj
